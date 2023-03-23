@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Examen de Suficiencia\bin\Debug\net6.0\Examen de Suficiencia.exe
+C:\Users\PC\Desktop\Examen de Suficiencia\bin\Debug\net6.0\Examen de Suficiencia.deps.json
+C:\Users\PC\Desktop\Examen de Suficiencia\bin\Debug\net6.0\Examen de Suficiencia.runtimeconfig.json
+C:\Users\PC\Desktop\Examen de Suficiencia\bin\Debug\net6.0\Examen de Suficiencia.dll
+C:\Users\PC\Desktop\Examen de Suficiencia\bin\Debug\net6.0\ref\Examen de Suficiencia.dll
+C:\Users\PC\Desktop\Examen de Suficiencia\bin\Debug\net6.0\Examen de Suficiencia.pdb
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\Examen de Suficiencia.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\Examen de Suficiencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\Examen de Suficiencia.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\Examen de Suficiencia.AssemblyInfo.cs
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\Examen de Suficiencia.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\Examen de Suficiencia.dll
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\ref\Examen de Suficiencia.dll
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\Examen de Suficiencia.pdb
+C:\Users\PC\Desktop\Examen de Suficiencia\obj\Debug\net6.0\Examen de Suficiencia.genruntimeconfig.cache
